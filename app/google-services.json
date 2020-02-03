@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526241990227",
+    "firebase_url": "https://ecommerce-819b7.firebaseio.com",
+    "project_id": "ecommerce-819b7",
+    "storage_bucket": "ecommerce-819b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526241990227:android:902a1c48183e2e5fb2a8a6",
+        "android_client_info": {
+          "package_name": "com.tasdid.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526241990227-atkmh481mpgk7fbigt3qh46fdcfsso0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tasdid.ecommerce",
+            "certificate_hash": "228e79a9110900b5f9d086261faa4bd75506e87e"
+          }
+        },
+        {
+          "client_id": "526241990227-ilvfmm4a1e8kfo0gu8dh54nh5knp9v2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADmmB-8cPe8KSudlRvRnjZ0CR3eZli5vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526241990227-ilvfmm4a1e8kfo0gu8dh54nh5knp9v2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
